@@ -1,12 +1,12 @@
 
 body {
-    background: linear-gradient(red,green);
+    background: linear-gradient(black, white);
 }
 
 h1 {
     font-size: 3em;
-    background-color: rgb(10, 70, 94);
-    padding: 30px;;
+    background-color: rgb(60, 30, 34);
+    padding: 30px;
     color: white;
 }
 
