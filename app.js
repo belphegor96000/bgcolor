@@ -1,2 +1,2 @@
 
-alert('well!!!')
+const red = 'red'
